@@ -1,5 +1,5 @@
 # tltTotrtOnNanoInstall
-#1: nvcc-V installation
+# 1: nvcc-V installation
 
 install_basics.sh
 
@@ -29,11 +29,11 @@ Now reload your terminal config :
     
     
     
-#2:pycuda installation (this repo code)
+# 2:pycuda installation (this repo code)
 
 https://github.com/jkjung-avt/tensorrt_demos/blob/master/ssd/install.sh 
 
-#3:TRT OSS installation
+# 3:TRT OSS installation
 
 https://docs.nvidia.com/metropolis/TLT/tlt-getting-started-guide/index.html#tensorrt_oss
 
